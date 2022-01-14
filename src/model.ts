@@ -86,8 +86,6 @@ const deletedata = async (req:Request,res:Response) => {
 
 }
 
-
-
 export {
     test,create,read ,update , deletedata
 }
